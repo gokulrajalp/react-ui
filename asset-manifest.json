@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-ui/static/css/main.b9f97df3.css",
+    "main.js": "/react-ui/static/js/main.64f10d73.js",
+    "static/js/453.151daa23.chunk.js": "/react-ui/static/js/453.151daa23.chunk.js",
+    "static/media/arabian-ranches-ii.jpg": "/react-ui/static/media/arabian-ranches-ii.d1c4dc3c439244b2c29b.jpg",
+    "static/media/dubai-marina.png": "/react-ui/static/media/dubai-marina.884336c8679bf705e2cb.png",
+    "static/media/dubai-hills-estate.jpg": "/react-ui/static/media/dubai-hills-estate.cb30d848053cfdf70a30.jpg",
+    "static/media/arabian-ranches.jpg": "/react-ui/static/media/arabian-ranches.f1c09b822df896856723.jpg",
+    "static/media/downtown-dubai.jpg": "/react-ui/static/media/downtown-dubai.ebe70f5cedb756c38862.jpg",
+    "static/media/emirates-living.jpg": "/react-ui/static/media/emirates-living.9aa937f10edf833fe6fd.jpg",
+    "index.html": "/react-ui/index.html",
+    "main.b9f97df3.css.map": "/react-ui/static/css/main.b9f97df3.css.map",
+    "main.64f10d73.js.map": "/react-ui/static/js/main.64f10d73.js.map",
+    "453.151daa23.chunk.js.map": "/react-ui/static/js/453.151daa23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f97df3.css",
+    "static/js/main.64f10d73.js"
+  ]
+}
